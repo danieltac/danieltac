@@ -6,7 +6,7 @@
 <img align="right" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
 
 <p align="center">
-  <img width="100" height="100" src="https://media.tenor.com/7NWxZ6tURaQAAAAi/joeyfromschool-swag.gif">
+  <img width="100" height="100" src="https://i.imgur.com/JOoH73v.gif">
 </p>
 
 # Learning more every day 🍃
@@ -29,7 +29,7 @@
 
 <img align="left" alt="danieltac's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danieltac&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-
+<img width="100" height="100" src="https://i.imgur.com/EHxIhJ0.gif">
 
 <!--
 **danieltac/danieltac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
