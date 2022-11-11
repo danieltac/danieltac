@@ -1,6 +1,8 @@
 ### Hi there, I'm Daniel - aka [Danieltac] 👋
 
 ![](https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif)
+<img align="left" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
+<img align="right" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
 
 <!--
 **danieltac/danieltac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
