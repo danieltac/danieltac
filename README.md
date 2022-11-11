@@ -11,7 +11,7 @@
 
 # Learning more every day 🍃
 
-🌱 I’m currently learning CSS3, HTML5 and JS.
+🌱 I’m currently learning CSS3, HTML5 and JS. 
 
 ### Languages and Tools:
 
