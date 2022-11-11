@@ -2,7 +2,6 @@
 
 
 <img align="left" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
----
 <img align="right" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
 
 <!--
