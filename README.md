@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel - aka [Danieltac] 👋
+# Hi there, I'm Daniel - aka [Danieltac] 👋
 
 
 <img align="left" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
@@ -9,6 +9,17 @@
   <img width="100" height="100" src="https://media.tenor.com/7NWxZ6tURaQAAAAi/joeyfromschool-swag.gif">
 </p>
 
+# Learning more every day 🍃
+
+🌱 I’m currently learning CSS3, HTML5 and JS.
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style="padding-right:10px;" />]
 
 <!--
 **danieltac/danieltac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
