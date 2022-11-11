@@ -2,7 +2,12 @@
 
 
 <img align="left" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
+<p align="center">
+  <img width="100" height="100" src="https://media.tenor.com/7NWxZ6tURaQAAAAi/joeyfromschool-swag.gif">
+</p>
 <img align="right" width="100" height="100" src="https://media.tenor.com/ezk10TtQiCUAAAAi/club-penguin-club-penguin-dance.gif">
+
+
 
 <!--
 **danieltac/danieltac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
